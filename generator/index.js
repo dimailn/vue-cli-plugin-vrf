@@ -1,7 +1,7 @@
 module.exports = (api) => {
   api.extendPackage({
     dependencies: {
-      'vrf': '^0.57.0'
+      'vrf': '^0.62.0'
     }
   })
   api.render('./templates')
