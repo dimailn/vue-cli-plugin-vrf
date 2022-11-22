@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-vrf",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Vue CLI plugin for Vrf",
   "main": "index.js",
   "scripts": {
